@@ -31,7 +31,7 @@ From travel platforms to AI tools and portfolio websites, I bring ideas to life 
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,framer,ejs&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=light" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light" />
