@@ -74,16 +74,6 @@ From travel platforms to AI tools and portfolio websites, I bring ideas to life 
 
 ---
 
-###  GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushal-script/kushal-script/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushal-script/kushal-script/output/pacman-contribution-graph.svg">
-  <img alt="Kushal's contribution graph" src="https://raw.githubusercontent.com/kushal-script/kushal-script/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ###  Let's Collaborate
 
 Open to internships, hackathons, and real-world AI/ML or web dev collaborations. Let’s build something impactful together!
