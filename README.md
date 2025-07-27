@@ -5,9 +5,9 @@
 <br />
 <div align="center">
 
-## Full Stack Developer | AI/ML Enthusiast | 2xHackathon Winner
+## Full Stack Developer | AI/ML Enthusiast | 2x Hackathon Winner
 
-I'm an aspiring Full Stack Developer and AI/ML Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
+I'm an aspiring Full Stack Developer and AI/ML Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in the MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
 
 From building full-stack apps to crafting data-driven AI systems, I specialize in merging clean UI/UX with intelligent backend logic. My passion lies in turning ambitious ideas into real-world tech—whether it’s machine learning, analytics, or embedded AI tools.
 
@@ -31,7 +31,9 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=light" />
+        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=light" /><br />
+        <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light" />
@@ -41,12 +43,14 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
       </td>
     </tr>
   </table>
+
   <br />
+
   <table>
     <tr>
       <th>Databases</th>
       <th>DevOps / Tools</th>
-      <th>AI/ML</th>
+      <th>AI / ML</th>
     </tr>
     <tr>
       <td>
@@ -56,7 +60,11 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
         <img src="https://skillicons.dev/icons?i=git,vercel,figma&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python&theme=light" />NumPy, Pandas, Seaborn, scikit-learn
+        <img src="https://skillicons.dev/icons?i=python&theme=light" /><br />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
       </td>
     </tr>
   </table>
@@ -64,7 +72,7 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
 
 ---
 
-### Projects
+###  Projects
 
 - **[WanderScript](https://github.com/kushal-script/WanderScript.git)** – A social travel blogging platform  
   `Node.js • Express.js • EJS • MySQL • MongoDB • OTP Auth`
@@ -77,5 +85,3 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
 ###  Let's Collaborate
 
 Open to internships, hackathons, and real-world AI/ML or web dev collaborations. Let’s build something impactful together!
-
----
