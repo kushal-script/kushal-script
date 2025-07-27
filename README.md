@@ -53,10 +53,10 @@ From travel platforms to AI tools and portfolio websites, I bring ideas to life 
         <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,vercel,figma,postman&theme=light" />
+        <img src="https://skillicons.dev/icons?i=git,vercel,figma&theme=light" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python&theme=light" /> IBM Watson, NumPy, Pandas, Seaborn, scikit-learn
+        <img src="https://skillicons.dev/icons?i=python&theme=light" />NumPy, Pandas, Seaborn, scikit-learn
       </td>
     </tr>
   </table>
