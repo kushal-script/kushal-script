@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-## Full Stack Developer | AI/ML Enthusiast | 2x Hackathon Winner
+## Full Stack Developer | AI/ML Enthusiast
 
 I'm an aspiring Full Stack Developer and AI/ML Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in the MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
 
@@ -75,10 +75,10 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
 ###  Projects
 
 - **[WanderScript](https://github.com/kushal-script/WanderScript.git)** – A social travel blogging platform  
-  `Node.js • Express.js • EJS • MySQL • MongoDB • OTP Auth`
+  `Node.js • Express.js • EJS • MySQL • MongoDB`
 
 - **[Portfolio Website](https://github.com/kushal-script/portfolio.git)** – Animated portfolio site  
-  `React.js • Framer Motion • EmailJS • Vercel`
+  `React.js • Framer Motion • Vercel`
 
 ---
 
