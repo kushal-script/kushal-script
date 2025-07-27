@@ -9,7 +9,7 @@
 
 I'm an aspiring Full Stack Developer and AI/ML Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
 
-From travel platforms to AI tools and portfolio websites, I bring ideas to life with clean UX, robust backend logic, and passion for technology.
+From building full-stack apps to crafting data-driven AI systems, I specialize in merging clean UI/UX with intelligent backend logic. My passion lies in turning ambitious ideas into real-world tech—whether it’s machine learning, analytics, or embedded AI tools.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kushal-sathyanarayan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-s-rv-university/)
