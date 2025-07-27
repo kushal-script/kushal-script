@@ -34,6 +34,7 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
         <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=light" /><br />
         <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
         <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+        <img src="https://img.shields.io/badge/EJS-333333?style=for-the-badge&logo=ejs&logoColor=white" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light" />
