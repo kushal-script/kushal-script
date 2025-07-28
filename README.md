@@ -5,9 +5,9 @@
 <br />
 <div align="center">
 
-## Full Stack Developer | AI/ML Enthusiast
+## Full Stack Developer | AI/ML & Data Science | Semiconductor Technology
 
-I'm an aspiring Full Stack Developer and AI/ML Engineer currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in the MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
+I'm an aspiring Full Stack Developer and AI/ML Undergrad currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in the MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
 
 From building full-stack apps to crafting data-driven AI systems, I specialize in merging clean UI/UX with intelligent backend logic. My passion lies in turning ambitious ideas into real-world tech—whether it’s machine learning, analytics, or embedded AI tools.
 
