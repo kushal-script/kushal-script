@@ -56,9 +56,14 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
     <tr>
       <td>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
+        <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logo=chroma&logoColor=white" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,vercel,figma&theme=light" />
+        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+      </td>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=python&theme=light" /><br />
@@ -66,6 +71,12 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge"/>
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LangChain-0663a7?style=for-the-badge&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-FF6243?style=for-the-badge&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CrewAI-333333?style=for-the-badge&logo=crewai&logoColor=white" />
+      </td>
+    </tr>
+      </td>
       </td>
     </tr>
   </table>
