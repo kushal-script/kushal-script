@@ -66,7 +66,6 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
       </td>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=python&theme=light" /><br />
         <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge"/>
@@ -89,7 +88,7 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
 - **[WanderScript](https://github.com/kushal-script/WanderScript.git)** – A social travel blogging platform  
   `Node.js • Express.js • EJS • MySQL • MongoDB`
 
-- **[Portfolio Website](https://github.com/kushal-script/portfolio.git)** – Animated portfolio site  
+- **[Portfolio Website](https://github.com/kushal-script/portfolio.git)** – Portfolio site  
   `React.js • Framer Motion • Vercel`
 
 ---
