@@ -1,81 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Kushal%20Sathyanarayan&fontColor=FFFFFF&fontSize=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Hey!%20I'm%20Kushal&fontColor=FFFFFF&fontSize=45"/>
 </div>
 
 <br />
+
 <div align="center">
 
-## Full Stack Developer | AI/ML & Data Science | Semiconductor Technology
+## AI & Semiconductor Researcher | Hardware-Aware Deep Learning | VLSI
 
-I'm an aspiring Full Stack Developer and AI/ML Undergrad currently pursuing my B.Tech in Computer Science (AI & ML) at RV University. With hands-on experience in building real-world web applications and a strong foundation in the MERN stack, Java DSA, and machine learning, I strive to craft performant, scalable, and intelligent systems that solve meaningful problems.
+I am an undergraduate researcher at **RV University** majoring in **AI & Machine Learning** with a specialized minor in **Semiconductor Technology**. My work focuses on bridging the gap between software algorithms and hardware physics. I specialize in **Physics-Informed Machine Learning (PIML)**, **Hardware-Aware Neural Network Quantization**, and **Semiconductor Process Automation**.
 
-From building full-stack apps to crafting data-driven AI systems, I specialize in merging clean UI/UX with intelligent backend logic. My passion lies in turning ambitious ideas into real-world tech—whether it’s machine learning, analytics, or embedded AI tools.
+Currently, I am working on deploying energy-efficient deep learning models on edge hardware and researching AI-driven solutions for semiconductor fabrication and circuit protection.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kushal-sathyanarayan.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-s-rv-university/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/kushal-script)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalsathyanarayan@gmail.com)
 
 </div>
 
 ---
 
-###  Tech Stack
+### Core Expertise & Research Focus
 
 <div align="center">
   <table>
     <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>Languages</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=light" /><br />
-        <img src="https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
-        <img src="https://img.shields.io/badge/EJS-333333?style=for-the-badge&logo=ejs&logoColor=white" />
+      <td align="center" width="33%">
+        <b>Hardware-Software Co-Design</b>
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=light" />
+      <td align="center" width="33%">
+        <b> Semiconductor Automation</b>
       </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=javascript,java,python,c,cpp&theme=light" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <table>
-    <tr>
-      <th>Databases</th>
-      <th>DevOps / Tools</th>
-      <th>AI / ML</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" />
-        <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logo=chroma&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=git,vercel,figma&theme=light" />
-        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-      </td>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Seaborn-005f73?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-0663a7?style=for-the-badge&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6243?style=for-the-badge&logo=n8n&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CrewAI-333333?style=for-the-badge&logo=crewai&logoColor=white" />
-      </td>
-    </tr>
-      </td>
+      <td align="center" width="33%">
+        <b> Physics-Informed ML</b>
       </td>
     </tr>
   </table>
@@ -83,16 +39,52 @@ From building full-stack apps to crafting data-driven AI systems, I specialize i
 
 ---
 
-###  Projects
+### Tech Stack & Tools
 
-- **[WanderScript](https://github.com/kushal-script/WanderScript.git)** – A social travel blogging platform  
-  `Node.js • Express.js • EJS • MySQL • MongoDB`
+<div align="center">
 
-- **[Portfolio Website](https://github.com/kushal-script/portfolio.git)** – Portfolio site  
-  `React.js • Framer Motion • Vercel`
+| **Domain** | **Technologies & Frameworks** |
+| :--- | :--- |
+| **AI & Deep Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=yolo&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> |
+| **Semiconductor & VLSI** | <img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white"/> <img src="https://img.shields.io/badge/Ansys_Electronics-A5315F?style=flat&logo=altiumdesigner&logoColor=white"/> <img src="https://img.shields.io/badge/Cadence-A5919F?style=flat&logo=altiumdesigner&logoColor=white"/> <img src="https://img.shields.io/badge/NanoHub-004488?style=flat"/> <img src="https://img.shields.io/badge/LTSpice-B12629?style=flat"/> <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white"/> |
+| **IoT** | <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"/>
+| **Languages & Math** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/> |
+
+</div>
 
 ---
 
-###  Let's Collaborate
+### Projects (Semiconductor + AIML)
 
-Open to internships, hackathons, and real-world AI/ML or web dev collaborations. Let’s build something impactful together!
+#### 1. Physics-Informed ML for Oxidation Thickness Prediction
+> **Tech:** Python, PINNs, SciPy, Semiconductor Physics
+> * **Objective:** Optimize thermal budget planning for oxidation furnaces.
+> * **Method:** Implemented a **Physics-Informed Machine Learning (PIML)** model that integrates the **Deal-Grove oxidation model** constraints into the training loop.
+> * **Result:** Validated predictions against theoretical models with high fidelity, reducing trial-and-error in process simulation.
+
+#### 2. AI-Based Wafer Defect Detection (WM-811K)
+> **Tech:** PyTorch, YOLOv8, Computer Vision
+> * **Objective:** Automate quality control in semiconductor manufacturing.
+> * **Method:** Developed a vision pipeline trained on the **WM-811K dataset** to classify wafer map defects (Center, Donut, Edge-Loc).
+> * **Result:** Achieved **>90% accuracy**, demonstrating viability for automated optical inspection (AOI) in fabs.
+
+#### 3. FinFET Performance Analysis & Simulation
+> **Tech:** NanoHub, TCAD, Device Physics
+> * **Objective:** Analyze scaling challenges in sub-10nm nodes.
+> * **Method:** Simulated **FinFET vs. Planar MOSFET** architectures using NanoHub tools to study Short Channel Effects (SCE).
+> * **Result:** Demonstrated superior sub-threshold swing and reduced leakage current in FinFET architectures suitable for low-power VLSI.
+
+---
+
+### Relevant Coursework
+
+| Fabrication & Physics | Devices & Circuits |
+| :--- | :--- |
+| **Semiconductor Fabrication:** Photolithography, Thermal Oxidation, Thin Film Deposition (PVD/CVD), RIE/DRIE Etching. | **VLSI Design:** FinFET Architectures, CMOS Inverter Design, SRAM/DRAM Memory Structures. |
+| **Physics:** Fermi-Dirac Statistics, Carrier Transport (Drift/Diffusion), Band Theory. | **Analysis:** Short Channel Effects (SCE), Leakage Power Mitigation, P-N Junction Breakdown. |
+
+---
+
+### Let's Collaborate
+
+I am open to **Research Internships** and collaborations in **Semiconductor Manufacturing & Fabrication**, **EDA Automation**, and **Hardware-AI Co-Design**.
